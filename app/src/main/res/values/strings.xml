@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ColorDescriptor</string>>
+    <string name="buttonFindDescription">Button</string>
+    <string-array name="colors">
+        <item>Красный</item>
+        <item>Оранжевый</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Голубой</item>
+    </string-array>
+
+    <string-array name="description_of_temp">
+        <item>Красный любишь</item>
+        <item>Оранжевый любишь</item>
+        <item>Желтый любишь</item>
+        <item>Зеленый любишь</item>
+        <item>Голубой любишь</item>
+    </string-array>
+</resources>
